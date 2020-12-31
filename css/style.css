@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+    margin: 0;
+    overflow: hidden;
+    background: url(../img/munna.jpg) center center no-repeat;
+    background-size: cover;
+
+  }
+  canvas {
+    cursor: pointer;
+  }
+  .a {
+    color: rgb(32, 238, 221);
+    font-size: 50px;
+    margin-top: -10px;
+    position: absolute; 
+    text-align: center;
+    top: 80%;
+    width: 100%;
+  }
+  .h {
+    color: rgb(226, 29, 233);
+    font-size: 60px;
+    margin-top: -10px;
+    position: absolute; 
+    text-align: center;
+    top: 20%;
+    width: 100%;
+  }
+  .start {
+    color: white;
+    font-size: 40px;
+    margin-top: -40px;
+    position: absolute; 
+    text-align: center;
+    top: 60%;
+    width: 100%;
+  }
